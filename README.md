@@ -3,6 +3,8 @@
 **Master the Art of Order and Time!**  
 TicTac Master is a fun and engaging game designed to help children (and adults!) improve skills in organization, time management, and memory. Inspired by occupational therapy principles, this game challenges players to keep a meticulously clean and organized home – can you handle the order? 🕰️✨
 
+![DALL·E 2024-11-11 16 28 20 - A more mature, polished cover image for a GitHub project about a game called TicTac Master  The image should depict an organized, minimalist home sett](https://github.com/user-attachments/assets/e354b1a2-8fa9-4ecc-9239-67488eebc25b)
+
 ## 🎮 Game Overview
 
 **TicTac Master** places players in the role of a child waking up in a perfectly organized home. Players must complete daily tasks in different rooms under time constraints, while maintaining the strict order of the household. From organizing dishes and lacing tangled boots to sorting toys, each task is designed to enhance cognitive skills in a fun, interactive way.  
