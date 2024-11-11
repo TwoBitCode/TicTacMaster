@@ -1,7 +1,9 @@
 # 🏠 TicTac Master
 
 ## Master the Art of Order and Time!
-TicTac Master is the capstone project for our **Bachelor’s in Computer Science** at **Ariel University, Israel**, developed in collaboration with the **Department of Occupational Therapy**. Designed specifically to support children with ADHD, this game provides a structured, interactive environment for building life skills. Through engaging, daily-life challenges set in a meticulously organized home, players work on essential skills like organization, time management, and memory. Each task aims to enhance cognitive abilities within a playful, structured experience. Are you ready to rise to the challenge of perfect order? 🕰️✨
+TicTac Master is the capstone project for our **Bachelor’s in Computer Science** at **Ariel University, Israel**, developed in collaboration with the **Department of Occupational Therapy**. 
+
+Designed specifically to support children with ADHD, this game provides a structured, interactive environment for building life skills. Through engaging, daily-life challenges set in a meticulously organized home, players work on essential skills like organization, time management, and memory. Each task aims to enhance cognitive abilities within a playful, structured experience. Are you ready to rise to the challenge of perfect order? 🕰️✨
 
 ![DALL·E 2024-11-11 16 28 20 - A more mature, polished cover image for a GitHub project about a game called TicTac Master](https://github.com/user-attachments/assets/e354b1a2-8fa9-4ecc-9239-67488eebc25b)
 
