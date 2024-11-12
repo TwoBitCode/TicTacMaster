@@ -1,5 +1,8 @@
 # 🏠 TicTac Master
 
+[Download TicTac Master Formal Elements PDF](https://github.com/TwoBitCode/TicTacMaster/blob/main/TicTacMaster_FormEl.pdf)
+
+
 ## Master the Art of Order and Time!
 TicTac Master is the capstone project for our **Bachelor’s in Computer Science** at **Ariel University, Israel**, developed in collaboration with the **Department of Occupational Therapy**. 
 
