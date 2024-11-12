@@ -1,6 +1,7 @@
 # 🏠 TicTac Master
 
-[Download TicTac Master Formal Elements PDF](https://github.com/TwoBitCode/TicTacMaster/blob/main/TicTacMaster_FormEl.pdf)
+Learn more about the design, objectives, and core elements of *TicTac Master* on our [Wiki page](https://github.com/TwoBitCode/TicTacMaster/wiki).
+
 
 
 ## Master the Art of Order and Time!
