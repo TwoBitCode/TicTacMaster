@@ -1,6 +1,6 @@
 # 🏠 TicTac Master
 
-Learn more about the design, objectives, and core elements of *TicTac Master* on our [Wiki page](https://github.com/TwoBitCode/TicTacMaster/wiki).
+Learn more about the design, objectives, and core elements of *TicTac Master* on our [Wiki page](https://github.com/TwoBitCode/TicTacMaster/wiki/Formal-Elements).
 
 
 
